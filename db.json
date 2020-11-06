@@ -1,0 +1,20 @@
+{
+  "userDetails": [
+    {
+      "user": {
+        "name": "Udit Singhal",
+        "email": "udit@gmail.com",
+        "password": "Udit@1234"
+      },
+      "id": 1
+    },
+    {
+      "user": {
+        "name": "Udit Singhal",
+        "email": "udit-singhal@outlook.com",
+        "password": "Udit@dude@1234"
+      },
+      "id": 2
+    }
+  ]
+}
